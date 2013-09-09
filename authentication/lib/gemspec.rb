@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'refinerycms-core',            '= #{::Refinery::Version}'
   s.add_dependency 'activerecord',                '~> 3.0.10'
-  s.add_dependency 'devise',                      '~> 1.4.3'
+  s.add_dependency 'devise',                      '~> 1.5.4'
   s.add_dependency 'friendly_id_globalize3',      '~> 3.2.1'
 
   s.files             = [
