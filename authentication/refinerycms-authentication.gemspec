@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name              = %q{refinerycms-authentication}
-  s.version           = %q{1.0.11}
+  s.version           = %q{1.0.12}
   s.summary           = %q{Authentication engine for Refinery CMS}
   s.description       = %q{The default authentication engine for Refinery CMS}
   s.date              = %q{2012-05-18}
