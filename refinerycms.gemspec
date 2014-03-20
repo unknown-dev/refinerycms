@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name              = %q{refinerycms}
-  s.version           = %q{1.0.11}
+  s.version           = %q{1.0.12}
   s.description       = %q{A Ruby on Rails CMS that supports Rails 3. It's easy to extend and sticks to 'the Rails way' where possible.}
   s.date              = %q{2013-02-04}
   s.summary           = %q{A Ruby on Rails CMS that supports Rails 3}
@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency    'bundler',                    '~> 1.0'
 
   # Refinery CMS
-  s.add_dependency    'refinerycms-authentication', '= 1.0.11'
+  s.add_dependency    'refinerycms-authentication', '= 1.0.12'
   s.add_dependency    'refinerycms-base',           '= 1.0.11'
   s.add_dependency    'refinerycms-core',           '= 1.0.11'
   s.add_dependency    'refinerycms-dashboard',      '= 1.0.11'
